@@ -1,0 +1,35 @@
+# compiled output
+nest-backend-api/dist
+nest-backend-api/.env
+node_modules/
+
+# Logs
+nest-backend-api/logs
+# nest-backend-api*.log
+nest-backend-api/npm-debug.log*
+nest-backend-api/yarn-debug.log*
+nest-backend-api/yarn-error.log*
+nest-backend-api/lerna-debug.log*
+
+# OS
+nest-backend-api/.DS_Store
+
+# Tests
+nest-backend-api/coverage
+nest-backend-api/.nyc_output
+
+# IDEs and editors
+nest-backend-api/.idea
+nest-backend-api/.project
+nest-backend-api/.classpath
+nest-backend-api/.c9/
+nest-backend-api/*.launch
+nest-backend-api/.settings/
+nest-backend-api/*.sublime-workspace
+
+# IDE - VSCode
+nest-backend-api.vscode/*
+nest-backend-api!.vscode/settings.json
+nest-backend-api!.vscode/tasks.json
+nest-backend-api!.vscode/launch.json
+nest-backend-api!.vscode/extensions.json
